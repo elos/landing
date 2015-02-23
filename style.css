@@ -4,8 +4,11 @@ body {
 }
 
 img {
-    min-width: 100%;
+    min-width: 1024px;
     min-height: 100%;
+    
+    width: 100%;
+    height: auto;
 }
 
 h1 {
